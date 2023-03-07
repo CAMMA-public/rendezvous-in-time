@@ -2,3 +2,6 @@ Rendezvous in Time: An Attention-based Temporal Fusion approach for Surgical Tri
 
 ### Model Overview
 ![Rendezvous in Time](images/rit_model.jpg)
+
+
+### Model Description & Weights [Coming Soon...]
