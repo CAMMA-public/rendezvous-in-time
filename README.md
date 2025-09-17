@@ -8,6 +8,7 @@ This is an official implementation of Rendezvous in Time (RiT) in PyTorch. Based
 [![Journal Publication](https://img.shields.io/badge/Spinger-IJCARS-magenta)](https://link.springer.com/article/10.1007/s11548-023-02914-1)
 
 ## News
+* [17/09/2025] Check out our [CAMMA Dataset Overlaps](https://github.com/CAMMA-public/camma_dataset_overlaps) repository for an analysis of video overlaps across Cholec80, CholecT50, and Endoscapes to ensure fair dataset splits.
 * [04/07/2023] Release of code in PyTorch for training and evaluation.
 
 ## Abstract
